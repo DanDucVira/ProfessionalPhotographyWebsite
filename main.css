@@ -1,3 +1,4 @@
+/*Color Palette https://colorhunt.co/palette/165211*/
 @import url('https://fonts.googleapis.com/css?family=Lobster|Merriweather&display=swap');
 
 * {
@@ -17,11 +18,13 @@ html {
     --special-color: #ad62aa;
     --background-color: #413c69;
     --gray-text: #525252;
+    --Logo-font: font-family: 'Lobster', cursive;
+    --text-font: font-family: 'Merriweather', serif;
 
 }
 
 
-
+/*Global styles*/
 h1 {
     font-size: var(--header1);
 
@@ -55,6 +58,14 @@ ul {
 a {
     text-decoration: none;
 
+}
+
+body {
+    font-family: var(--text-font);
+}
+
+h1 {
+    font-family: var(--Logo-Font);
 }
 
 .flex {
