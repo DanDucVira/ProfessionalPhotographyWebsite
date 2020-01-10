@@ -79,6 +79,10 @@ h1 {
 }
 
 /*Navigation css styles*/
+.main-header {
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+}
+
 nav {
     width: 90%;
     margin: auto;
@@ -86,6 +90,7 @@ nav {
     align-items: center;
     min-height: 10vh;
     padding: 2rem 0;
+
 
 }
 
@@ -98,4 +103,23 @@ nav {
     display: flex;
     justify-content: space-around;
     flex: 1 1 20rem;
+}
+
+.headline {
+    min-height: 90vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.headline-intro {
+    flex: 1 1 40rem;
+}
+
+.headline-img {
+    flex: 1 1 40rem;
+}
+
+.headline-img img {
+    height: 100vh;
+    width: 100%;
 }
