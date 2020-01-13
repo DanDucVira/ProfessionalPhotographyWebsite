@@ -1,5 +1,5 @@
 /*Color Palette https://colorhunt.co/palette/165211*/
-@import url('https://fonts.googleapis.com/css?family=Lobster|Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Dancing+Script&display=swap');
 
 * {
     box-sizing: border-box;
@@ -18,8 +18,7 @@ html {
     --special-color: #ad62aa;
     --background-color: #413c69;
     --gray-text: #525252;
-    --Logo-font: font-family: 'Lobster', cursive;
-    --text-font: font-family: 'Merriweather', serif;
+
 
 }
 
@@ -42,6 +41,7 @@ a {
 
 h2 {
     font-size: var(--header2);
+
 }
 
 h3 {
@@ -64,12 +64,10 @@ a {
 }
 
 body {
-    font-family: var(--text-font);
+    font-family: 'Crimson Text', serif;
 }
 
-h1 {
-    font-family: var(--Logo-font);
-}
+
 
 .flex {
     display: flex;
@@ -89,13 +87,16 @@ nav {
     display: flex;
     align-items: center;
     min-height: 10vh;
-    padding: 2rem 0;
+    padding: 2rem 0rem;
+
+
 
 
 }
 
 #logo {
     flex: 1 1 20rem;
+    font-family: 'Dancing Script', cursive;
 
 }
 
@@ -103,12 +104,16 @@ nav {
     display: flex;
     justify-content: space-around;
     flex: 1 1 20rem;
+
+
 }
 
 .headline {
     min-height: 90vh;
     display: flex;
     flex-wrap: wrap;
+    width: 95%;
+    margin: 0 0 0 auto;
 }
 
 .headline-intro {
@@ -117,9 +122,4 @@ nav {
 
 .headline-img {
     flex: 1 1 40rem;
-}
-
-.headline-img img {
-    height: 100vh;
-    width: 100%;
 }
