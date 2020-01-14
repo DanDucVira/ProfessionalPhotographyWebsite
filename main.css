@@ -262,6 +262,25 @@ nav {
 
 }
 
+/*Contact Css Styles*/
+.contact {
+    min-height: 90vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form-wrapper {
+    flex: 3 1 40em;
+}
+
+.form-wrapper h2 {
+    font-size: var(--header2);
+}
+
+.contact img {
+    flex: 1 1 40rem;
+}
+
 
 /*Animations*/
 @keyframes opening {
