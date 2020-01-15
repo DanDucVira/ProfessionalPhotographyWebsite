@@ -4,6 +4,6 @@ A Professional Photographer Website
 
 **Technologies Used**
 
--HTML
--CSS
+- HTML
+- CSS
 
