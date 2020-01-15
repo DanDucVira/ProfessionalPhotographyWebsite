@@ -2,7 +2,7 @@
 A Professional Photographer Website
 
 
-**Technologies Used**
+##**Technologies Used**
 
 - HTML
 - CSS
@@ -10,7 +10,7 @@ A Professional Photographer Website
 
 
 
-**Created by**:
+##**Created by**:
 
 
 
