@@ -1,5 +1,5 @@
 # ProfessionalPhotographyWebsite
-A Professional Photographer Website
+ This project is a Professional Photographer Website
 
 
 ##  **Technologies Used**
