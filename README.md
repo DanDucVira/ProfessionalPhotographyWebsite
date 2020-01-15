@@ -2,8 +2,8 @@
 A Professional Photographer Website
 
 
-Technologies Used
+**Technologies Used**
 
-HTML
-CSS
+*HTML
+*CSS
 
