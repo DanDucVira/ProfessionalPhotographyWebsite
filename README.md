@@ -6,6 +6,10 @@ A Professional Photographer Website
 
 - HTML
 - CSS
+
+
+
+
 **Created by**
 Daniel Ducas-Viramontes
 
