@@ -1,6 +1,8 @@
 # ProfessionalPhotographyWebsite
  This project is a Professional Photographer Website
 
+###ScreenShot of Website###
+![](websiteFull.jpg)
 
 ##  **Technologies Used**
 
